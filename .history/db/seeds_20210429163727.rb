@@ -6,4 +6,4 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 Student.destroy_all
 
-  Student.create(first_name: 'Emanuel', last_name: "Johnson", active: false)
+  Student.create(first_name: 'Emanuel', last_name: "Johnson")
